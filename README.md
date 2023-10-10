@@ -16,6 +16,6 @@ In the upcoming days you will get more real world projects from different moduls
 
 Collaboration and Feedback:
 
-Fill free to collaboration and feedback! If you have any questions, suggestions, or would like to work together on a project, feel free to reach out through GitHub or email me at mahatosanjay@gmail.com .
+Fill free to collaboration and feedback! If you have any questions, suggestions, or would like to work together on a project, feel free to reach out through GitHub or email me at mahatosanjay407@gmail.com .
 
 Thank you for visiting my data analytics repository. I hope you find this project informative and inspiring. Its my first Project here. Don't forget to star the repository if you find this interesting and valuable.
